@@ -1,0 +1,15 @@
+{
+  "name": "Enums",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Packages": {
+        "$className": "Folder",
+        "Enums": {
+          "$path": "src"
+        }
+      }
+    }
+  }
+}
